@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username: alirezaafzalaghaei
 #gitlab_username: alirezaafzalaghaei
-#telegram_username: conficker
+telegram_username: conficker
 linkedin_username: afzalaghaei
 
 
@@ -29,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,6 +44,3 @@ plugins:
 #   - vendor/ruby/
 
 google_analytics: UA-158057943-1
-
-header_pages:
-  - about.md
