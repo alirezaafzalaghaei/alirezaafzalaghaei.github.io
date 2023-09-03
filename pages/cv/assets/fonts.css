@@ -1,15 +1,12 @@
 @font-face {
-  font-family:"Source Sans Pro";font-style:normal;font-weight:400;src:local("Source Sans Pro"),local("SourceSansPro-Regular"),url("source-sans-pro-v11-latin-ext_cyrillic-ext_vietnamese_greek_greek-ext_cyrillic_latin-regular.woff") format("woff");
+  font-family:"Source Sans Pro";font-style:normal;font-weight:400;src:local("Source Sans Pro"),local("SourceSansPro-Regular"),url("source-sans-pro-v11-regular.woff") format("woff");
 }
 
 @font-face {
-  font-family:"Source Sans Pro";font-style:italic;font-weight:400;src:local("Source Sans Pro"),local("SourceSansPro-Italic"),url("source-sans-pro-v11-latin-ext_cyrillic-ext_vietnamese_greek_greek-ext_cyrillic_latin-italic.woff") format("woff");
+  font-family:"Source Sans Pro";font-style:italic;font-weight:400;src:local("Source Sans Pro"),local("SourceSansPro-Italic"),url("source-sans-pro-v11-italic.woff") format("woff");
 }
 
 @font-face {
-  font-family:"Source Sans Pro";font-style:normal;font-weight:700;src:local("Source Sans Pro"),local("SourceSansPro-Bold"),url("source-sans-pro-v11-latin-ext_cyrillic-ext_vietnamese_greek_greek-ext_cyrillic_latin-700.woff") format("woff");
+  font-family:"Source Sans Pro";font-style:bold;font-weight:700;src:local("Source Sans Pro"),local("SourceSansPro-Bold"),url("source-sans-pro-v11-bold.woff") format("woff");
 }
 
-@font-face {
-  font-family:"Source Sans Pro";font-style:italic;font-weight:700;src:local("Source Sans Pro"),local("SourceSansPro-BoldItalic"),url("/assets/fonts/source-sans-pro/source-sans-pro-v11-latin-ext_cyrillic-ext_vietnamese_greek_greek-ext_cyrillic_latin-700italic.woff") format("woff");
-}
